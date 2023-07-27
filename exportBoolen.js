@@ -1,2 +1,2 @@
-let boolen = true;
+const boolen = true;
 module.exports = boolen;

@@ -1,2 +1,2 @@
-const boolen = require("./exportBoolen");
+const boolen = require("./exportBoolen.js");
 console.log(boolen);
